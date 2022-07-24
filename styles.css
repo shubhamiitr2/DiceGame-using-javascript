@@ -32,6 +32,23 @@ img {
   width: 80%;
 }
 
+#reload{
+  position: relative;
+  margin-top: 35px;
+  padding: 15px;
+  background-color: Green;
+  color:white;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 10px;
+  width: 150px;
+
+}
+#reload:hover{
+  cursor: pointer;
+  background-color: #4ECCA3;
+}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
