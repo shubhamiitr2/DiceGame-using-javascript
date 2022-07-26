@@ -15,10 +15,10 @@ body {
 }
 
 h1 {
-  margin: 30px;
+  margin: 2px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
+  font-size: 5rem;
   color: #4ECCA3;
 }
 
@@ -36,21 +36,22 @@ img {
   position: relative;
   margin-top: 35px;
   padding: 15px;
-  background-color: Green;
+  background-color: #4ECCA3;
   color:white;
   font-size: 18px;
   font-weight: bold;
   border-radius: 10px;
   width: 150px;
 
+
 }
 #reload:hover{
   cursor: pointer;
-  background-color: #4ECCA3;
+  background-color:Green;
 }
 
 footer {
-  margin-top: 5%;
+  margin-top: 1%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
